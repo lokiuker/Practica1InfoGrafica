@@ -1,0 +1,5 @@
+﻿  render.cpp
+c:\users\loki90\desktop\informatica grafica framework\code\src\render.cpp(146): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\loki90\desktop\informatica grafica framework\code\src\render.cpp(239): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  GL_framework.vcxproj -> C:\Users\loki90\Desktop\Informatica Grafica Framework\x64\Debug\GL_framework.exe
+  GL_framework.vcxproj -> C:\Users\loki90\Desktop\Informatica Grafica Framework\x64\Debug\GL_framework.pdb (Partial PDB)
